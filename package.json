@@ -1,0 +1,23 @@
+{
+  "name": "jest-build-and-burn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psteide93/jest-build-and-burn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psteide93/jest-build-and-burn/issues"
+  },
+  "homepage": "https://github.com/psteide93/jest-build-and-burn#readme",
+  "dependencies": {
+    "jest": "^28.0.2"
+  }
+}
